@@ -1,0 +1,49 @@
+.main {
+    border: solid;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    background-color: bisque;
+    position: relative;
+    background-image: url("../images/background2.jpg")
+}
+.header {
+    margin: 20px;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: palegreen;
+}
+.directions {
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:palegreen;
+    margin: 25px;
+}
+.numbertoMatch {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+    color:palegreen;
+}
+.WinsAndLosses {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    color:palegreen;
+}
+.playerTotal {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    color:palegreen;
+}
+
+div {
+    margin: 50px;
+    
+}
+.gems {
+    clear: both;
+}
+.gemImage {
+    height: 120px;
+    width: 130px;
+
+}
